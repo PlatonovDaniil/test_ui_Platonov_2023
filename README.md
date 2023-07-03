@@ -4,8 +4,8 @@
 ## Ui test Python selenium
 
 ### We test our site with Python and Selenium.
-...
+
 For run test use.
-...
+
 test_site_UI.py
-...
+
